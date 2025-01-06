@@ -5,13 +5,17 @@ Implementation Steps
 
 Step 1: Prepare Your Directory
   Create a directory and fill it with your desired images
+  
 Step 2: Install Python
+
 Step 3: Download the script
+
 Step 4: Run the Script
   Open a terminal or command prompt.
   Run the script using:
     python path\to\script.py
   Replace path\to with the full path where the script is located.
+  
 Step 5: Automate with Task Scheduler
   Open Task Scheduler in Windows.
     Create a new task.
